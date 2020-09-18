@@ -6,7 +6,7 @@ A simple, reponsive website. Built with:
 
 - Python 
 - Django 
-- MySQL
+
 
 ## Description
 
@@ -22,7 +22,7 @@ Get the source code and install requirements:
 
 ```
 $ git clone git@github.com:bellcastle88/Weather-App-Django.git
-$ cd Weather-App-Django
+$ cd commerce
 $ pip install -r requirements.txt
 ```
 
