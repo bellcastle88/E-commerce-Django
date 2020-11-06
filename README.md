@@ -18,5 +18,5 @@ $ pip install -r requirements.txt
 
 ## Acknowledgments
 
-* [Anthony Herbert]( https://www.digitalocean.com/community/tutorials/how-to-build-a-weather-app-in-django )
+* [Anthony Herbert]( https://www.digitalocean.com/community/tutorials/how-to-build-a-weather-app-in-django  )
 
